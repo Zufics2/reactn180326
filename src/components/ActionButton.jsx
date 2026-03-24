@@ -17,9 +17,18 @@ const styles = StyleSheet.create({
         marginBottom: 12, 
     },
     text:{
+<<<<<<< HEAD
         color: "#ffffff",
         textAlign: center,
         fontSize: 16,
         fontWeight: "600",
     }
 })
+=======
+        color: "#fffff",
+        textAlign: center,
+        fontSize: 16,
+        fontWeight: 600,
+    }
+})
+>>>>>>> 42215b76c81b5a4d10271db921d00c1814d97ee9

@@ -1,7 +1,11 @@
 import { View, Text, StyleSheet } from "react-native"
 import ActionButton from "../components/ActionButton"
 
+<<<<<<< HEAD
 export default function HomeScreen({ navigation }){
+=======
+export default function HomeScreen([navigation]){
+>>>>>>> 42215b76c81b5a4d10271db921d00c1814d97ee9
     return(
         <View style={styles.container}>
             <Text style={styles.title}>Device Features App</Text>
